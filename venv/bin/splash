@@ -1,0 +1,4 @@
+#!/home/zsofia/pythonProject/testingSplash/venv/bin/python
+
+from splash.server import main
+main()
